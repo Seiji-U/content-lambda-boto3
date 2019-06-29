@@ -158,4 +158,8 @@ Resources:
           Fn::GetAtt:
           - ParseTranscribe
           - Arn
+<<<<<<< HEAD
         Id: ParseTranscribe
+=======
+        Id: ParseTranscribe
+>>>>>>> b72bb11f21a7c219e5f5c01d86c372fc4a378ee0
